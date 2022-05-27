@@ -22,6 +22,7 @@ Install
     $ python3 -m pip install bugscanner
 
 or
+
     $ pkg install git
     $ git clone https://github.com/fyn170/scanbug.git
     $ cd scanbug
