@@ -14,7 +14,7 @@ Install
 
 **Sub Finder**
 
-    $ go get -v -u github.com/projectdiscovery/subfinder/cmd/subfinder
+      go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 
 **Bug Scanner**
 
