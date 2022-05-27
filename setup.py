@@ -4,9 +4,9 @@ with open("README.md", "r") as fh:
 	long_description = fh.read()
 
 setuptools.setup(
-	name="bugscanner",
+	name="scanbug",
 	version="0.1.8",
-	author="aztecrabbit",
+	author="fynn",
 	author_email="ars.xda@gmail.com",
 	description="Bug Scanner for Internet Freedom (Domain Fronting, Server Name Indication, Etc)",
 	long_description=long_description,
