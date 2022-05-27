@@ -14,15 +14,16 @@ Install
 
 **Sub Finder**
 
-    $ go get -v -u github.com/projectdiscovery/subfinder/cmd/subfinder
+    $ go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 
 **Bug Scanner**
 
+    $ pkg install python -y
     $ python3 -m pip install bugscanner
 
 or
 
-    $ git clone https://github.com/aztecrabbit/bugscanner
+    $ git clone https://github.com/fyn170/Bug-Scaner.git
     $ cd bugscanner
     $ python3 -m pip install -r requirements.txt
     $ python3 setup.py install
