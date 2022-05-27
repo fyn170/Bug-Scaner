@@ -14,11 +14,11 @@ Install
 
 **Sub Finder**
 
-      go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+    go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 
 **Bug Scanner**
-    *  pkg install python -y *
-    *  python3 -m pip install bugscanner *
+    pkg install python -y
+    python3 -m pip install bugscanner
 
 or
 
