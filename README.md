@@ -22,7 +22,7 @@ Install
 
 or
 
-    $ git clone https://github.com/aztecrabbit/bugscanner
+    $ git clone https://github.com/fyn170/bugscanner
     $ cd bugscanner
     $ python3 -m pip install -r requirements.txt
     $ python3 setup.py install
