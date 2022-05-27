@@ -3,7 +3,7 @@
 Bug Scanner for Internet Freedom
 
 
-Sub Finder
+Source
 ----------
 
 - [subfinder](https://github.com/projectdiscovery/subfinder) (golang)
@@ -22,10 +22,10 @@ Install
     $ python3 -m pip install bugscanner
 
 or
-
-    $ git clone https://github.com/fyn170/Bug-Scaner.git
-    $ cd bugscanner
-    $ python3 -m pip install -r requirements.txt
+    $ pkg install git
+    $ git clone https://github.com/fyn170/scanbug.git
+    $ cd scanbug
+    $ python3 -m pip install -r pack.txt
     $ python3 setup.py install
 
 
